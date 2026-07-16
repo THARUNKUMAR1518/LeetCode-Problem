@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -46,4 +49,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

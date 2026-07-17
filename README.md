@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

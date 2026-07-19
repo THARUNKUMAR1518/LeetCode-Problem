@@ -10,10 +10,8 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-
             if (inStack[ch - 'a'])
                 continue;
-
             while (st.length() > 0 && st.charAt(st.length() - 1) > ch && last[st.charAt(st.length() - 1) - 'a'] > i) {
                 inStack[st.charAt(st.length() - 1) - 'a'] = false;
                 st.deleteCharAt(st.length() - 1);

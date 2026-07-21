@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

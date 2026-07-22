@@ -7,8 +7,7 @@ class Solution {
         String key=new String(arr);
         map.putIfAbsent(key,new ArrayList<>());
         map.get(key).add(str);
-     }
+        }
      return new ArrayList<>(map.values());
-
     }
 }

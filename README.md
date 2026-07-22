@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |

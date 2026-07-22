@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
@@ -154,4 +155,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

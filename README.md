@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
 |  |
 | ------- |

@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,9 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |

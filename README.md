@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

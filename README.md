@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
+| [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [3312-sorted-gcd-pair-queries](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 ## Design
 |  |

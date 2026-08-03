@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 ## Matrix
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -238,13 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

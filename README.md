@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -311,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

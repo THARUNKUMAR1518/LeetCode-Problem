@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0068-text-justification) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

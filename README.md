@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0068-text-justification) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |

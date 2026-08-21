@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [1386-cinema-seat-allocation](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |

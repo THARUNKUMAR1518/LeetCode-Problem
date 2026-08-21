@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1140-stone-game-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0068-text-justification) |
 | [0168-excel-sheet-column-title](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |

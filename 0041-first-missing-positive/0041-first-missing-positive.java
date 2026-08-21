@@ -1,11 +1,10 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        int[] f = Arrays.stream(nums).filter(n -> n > 0).toArray();
-        Arrays.sort(f);
+        Arrays.sort(nums);
         int t = 1;
-        for (int n : f) {
+        for (int n : nums) {
             if (n == t) {
-                t++;
+               t++;
             }
         }
         return t;        

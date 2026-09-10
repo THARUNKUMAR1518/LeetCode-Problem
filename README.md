@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |

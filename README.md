@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |

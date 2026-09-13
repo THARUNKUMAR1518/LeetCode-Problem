@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0059-spiral-matrix-ii) |
+| [0835-image-overlap](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |

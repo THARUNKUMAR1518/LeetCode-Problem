@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0940-distinct-subsequences-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |

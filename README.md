@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0072-edit-distance) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

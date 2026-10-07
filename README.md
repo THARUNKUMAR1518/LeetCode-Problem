@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0856-score-of-parentheses) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/3310-remove-methods-from-project) |

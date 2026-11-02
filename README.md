@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0739-daily-temperatures) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1140-stone-game-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/THARUNKUMAR1518/LeetCode-Problem/tree/master/1520-maximum-number-of-non-overlapping-substrings) |

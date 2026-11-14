@@ -1,4 +1,3 @@
-
 class Solution:
     def minimumSumSubarray(self, nums, l, r):
         n = len(nums)
